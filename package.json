@@ -35,7 +35,7 @@
     "bootstrap-jquery": "3.3.2",
     "chart.js": "2.8.0",
     "core-js": "2.5.3",
-    "file-loader": "4.2.0",
+    "file-loader": "6.2.0",
     "font-awesome": "4.7.0",
     "intl": "1.2.5",
     "jquery": "3.4.1",
@@ -54,11 +54,11 @@
     "rxjs-compat": "6.0.0-rc.0",
     "systemjs": "0.21.0",
     "tslib": "1.9.0",
-    "url-loader": "2.1.0",
+    "url-loader": "4.1.1",
     "zone.js": "0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.13.0",
+    "@angular-devkit/build-angular": "15.0.4",
     "@angular/cli": "7.3.5",
     "@angular/compiler-cli": "7.2.8",
     "@angular/language-service": "7.2.8",
